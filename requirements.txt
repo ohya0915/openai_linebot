@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+jinja2
+line-bot-sdk
+openai==0.28
